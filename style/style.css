@@ -1,3 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 h2 {
-    color: aqua;
+    color: red;
+    text-align: center;
+    font-style: oblique;
+    font-weight:bolder;
+    margin-top: 50px;
+}
+#head {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
 }
